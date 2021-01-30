@@ -1,0 +1,22 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".Second_activity"
+    android:gravity="center"
+    android:background="#000"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Welcome Mario"
+        android:textSize="50sp"
+        android:textAlignment="center"
+        android:textColor="#E8E6E6" />
+
+</LinearLayout>
